@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to SnowyDay!"
 date:   2022-11-24 16:28:28 +0200
 categories: jekyll update
 ---
